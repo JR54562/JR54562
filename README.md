@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JR54562
+- 👋 Hi, I’m Jay.
 - 👀 I’m interested in learning more about software engineering.
 - 🌱 I’m currently learning HTML, CSS, JS, etc.
 - 💞️ I’m looking to collaborate on best practices, tips and tricks. 
